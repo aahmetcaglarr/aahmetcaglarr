@@ -1,5 +1,9 @@
    [![MasterHead](https://iili.io/Jh0OIwP.png)
-<h1 align="center">Hi 👋, I'm ahmet çağlar</h1>
+<h1 align="center">Hi 👋,Hello, I'm Ahmet Çağlar. I'm a sophomore in Computer Engineering at Düzce University. I'm developing myself in both full-stack development and artificial intelligence fields. I'm always open to learning and closely following new technologies.
+
+Currently, I'm actively learning .NET Core and developing websites using HTML, CSS, and Bootstrap. Although I've improved myself in many areas since I started programming, there's still a lot I want to learn and explore. Therefore, researching continuously, learning new things, and applying them have become my biggest passion.
+
+In my spare time, I'm trying to further develop myself by solving algorithms on coding platforms and developing projects in different programming languages. </h1>
 <h3 align="center">A passionate fullstack developer from turkey</h3>
 
 - 🔭 I’m currently working on **javascript**
